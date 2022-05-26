@@ -22,3 +22,6 @@ declined, etc.
 
 ## Pipeline
 [![Build status](https://dev.azure.com/jailtons/jailtons/_apis/build/status/WebGoat.NET)](https://dev.azure.com/jailtons/jailtons/_build/latest?definitionId=73)
+
+## SAST
+[![Quality Gate Status](https://sonarqubewebapp.azurewebsites.net/api/project_badges/measure?project=WebGoat.NET&metric=alert_status&token=4c06c682f4ea807e4bb7cf061fa8aad80c7e3790)](https://sonarqubewebapp.azurewebsites.net/dashboard?id=WebGoat.NET)
